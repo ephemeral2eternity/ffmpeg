@@ -1,0 +1,12 @@
+doc/ffmpeg.pod: doc/avtools-common-opts.texi
+doc/ffmpeg.pod: doc/config.texi
+doc/ffmpeg.pod: doc/utils.texi
+doc/ffmpeg.pod: doc/codecs.texi
+doc/ffmpeg.pod: doc/bitstream_filters.texi
+doc/ffmpeg.pod: doc/formats.texi
+doc/ffmpeg.pod: doc/protocols.texi
+doc/ffmpeg.pod: doc/devices.texi
+doc/ffmpeg.pod: doc/resampler.texi
+doc/ffmpeg.pod: doc/scaler.texi
+doc/ffmpeg.pod: doc/filters.texi
+doc/ffmpeg.pod: doc/authors.texi

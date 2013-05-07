@@ -1,0 +1,12 @@
+doc/ffprobe-all.pod: doc/avtools-common-opts.texi
+doc/ffprobe-all.pod: doc/config.texi
+doc/ffprobe-all.pod: doc/utils.texi
+doc/ffprobe-all.pod: doc/codecs.texi
+doc/ffprobe-all.pod: doc/bitstream_filters.texi
+doc/ffprobe-all.pod: doc/formats.texi
+doc/ffprobe-all.pod: doc/protocols.texi
+doc/ffprobe-all.pod: doc/devices.texi
+doc/ffprobe-all.pod: doc/resampler.texi
+doc/ffprobe-all.pod: doc/scaler.texi
+doc/ffprobe-all.pod: doc/filters.texi
+doc/ffprobe-all.pod: doc/authors.texi

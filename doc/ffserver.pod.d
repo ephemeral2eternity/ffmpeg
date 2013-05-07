@@ -1,0 +1,12 @@
+doc/ffserver.pod: doc/avtools-common-opts.texi
+doc/ffserver.pod: doc/config.texi
+doc/ffserver.pod: doc/utils.texi
+doc/ffserver.pod: doc/codecs.texi
+doc/ffserver.pod: doc/bitstream_filters.texi
+doc/ffserver.pod: doc/formats.texi
+doc/ffserver.pod: doc/protocols.texi
+doc/ffserver.pod: doc/devices.texi
+doc/ffserver.pod: doc/resampler.texi
+doc/ffserver.pod: doc/scaler.texi
+doc/ffserver.pod: doc/filters.texi
+doc/ffserver.pod: doc/authors.texi

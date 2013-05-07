@@ -1,0 +1,1 @@
+#define FFMPEG_VERSION "N-52724-gb937d36"
